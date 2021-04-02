@@ -1,0 +1,13 @@
+venv/
+recordings/
+quizzes/
+exams/
+books/
+*draft/
+hwgrading/
+FirstLast*
+*.zip
+*.DS_Store
+*checkpoint*
+*.pages
+*.docx
