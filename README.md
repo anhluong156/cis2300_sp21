@@ -1,0 +1,1 @@
+lectures & assignments (in jupyter notebooks) for the undergraduate course Programming and Computational Thinking that I am teaching (2 sections) this semester -- Spring 2021 @ Zicklin School of Business, Baruch College, CUNY
