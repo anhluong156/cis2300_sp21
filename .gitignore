@@ -6,6 +6,7 @@ books/
 *draft/
 hwgrading/
 FirstLast*
+*solutions*
 *.zip
 *.DS_Store
 *checkpoint*
